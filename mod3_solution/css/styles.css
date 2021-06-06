@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+
+#header-nav {
+    background-color: #f6b319;
+    border-radius: 0;
+    border: 0;
+  }
+
+.container-fluid h1 {
+    margin-left: 50px;
+}
+
+#main-page > div h2 {
+    text-align: center;
+}
+
+#colored-box {
+    background:#5a5a5a ;
+    height: 250px;
+    margin: 10px;
+    overflow: visible;
+    
+}
+#colored-box  > h3 {
+    text-align: center;
+    color: #c4c4c4;
+}
+
+
+#colored-box  > p {
+    text-align: center;
+    color: white;
+    margin: 5px;
+    }
